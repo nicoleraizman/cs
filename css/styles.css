@@ -58,15 +58,15 @@ padding: 50px 0 20px;
 
 .bottom-cloud {
   position:absolute;
-  bottom:35%;
-  left:12%;
+  bottom:40%;
+  left:15%;
   width:10%;
 }
 
 .top-cloud{
   position: absolute;
-  top:6%;
-  right: 15%;
+  top:10%;
+  right: 16%;
   width:10%;
 }
 
